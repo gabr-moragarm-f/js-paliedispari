@@ -33,7 +33,10 @@ palindromaButton.addEventListener('click', function() {
 
 
 
+
+
 // Secondo
+
 // Valori costanti -------------------------------------------------------------
 var minNumber = 1;
 
